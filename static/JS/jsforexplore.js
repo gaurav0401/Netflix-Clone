@@ -9,4 +9,5 @@ function loginpage() {
 function joinpage() {
 
     window.open("index.html")
+
 }

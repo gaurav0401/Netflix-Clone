@@ -1,6 +1,6 @@
 function loginpage() {
 
-    window.open("login.html")
+    window.open("login.html" ,self)
 }
 
 
@@ -8,6 +8,7 @@ function loginpage() {
 
 function joinpage() {
 
-    window.open("index.html")
+    window.open("index.html" ,self) 
 
 }
+
